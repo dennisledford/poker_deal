@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokerDeal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Deal yourself a hand of 5 cards</string>
+    <string name="button_deal">Deal Cards</string>
+    <string name="information">This app is intended as a demo of the viewpager functionality</string>
+    <string name="author">Author</string>
+    <string name="author_value">Dennis Ledford</string>
+    <string name="title_activity_display_hand">Your Hand</string>
+	<string name="card_placeholder">card_placeholder</string>
+</resources>
